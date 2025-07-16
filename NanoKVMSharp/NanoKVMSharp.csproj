@@ -4,6 +4,12 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>NanoKVMSharp</Title>
+    <Authors>VaKKuum</Authors>
+    <Company>VaKKuum</Company>
+    <PackageProjectUrl>https://github.com/VaKKuumDEV/NanoKVMSharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/VaKKuumDEV/NanoKVMSharp</RepositoryUrl>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
